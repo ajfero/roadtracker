@@ -1,3 +1,15 @@
+# RoadTracker
+
+RoadTracker starts from [Archify](https://github.com/tt-a1i/archify) to develop an independent product on its diagram engine and interactive viewer.
+
+- **Our repository:** [ajfero/roadtracker](https://github.com/ajfero/roadtracker)
+- **Local development and upstream updates:** [Fork setup](FORK.md)
+- **Starting point:** Archify 3.1.0, upstream commit `b25142deac4b19b293e45b6bf6d69351d3c8f3b6`.
+
+The Archify documentation below is retained as an upstream reference. Its installation commands, services, branding, and release links refer to Archify. Use [FORK.md](FORK.md) to work on this checkout.
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/assets/archify-lockup-dark.svg" />
